@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Documentry-page/static/css/main.471a92b9.chunk.css",
+    "main.js": "/Documentry-page/static/js/main.ab3dbcf1.chunk.js",
+    "main.js.map": "/Documentry-page/static/js/main.ab3dbcf1.chunk.js.map",
+    "runtime-main.js": "/Documentry-page/static/js/runtime-main.83b99e10.js",
+    "runtime-main.js.map": "/Documentry-page/static/js/runtime-main.83b99e10.js.map",
+    "static/js/2.6df6ae88.chunk.js": "/Documentry-page/static/js/2.6df6ae88.chunk.js",
+    "static/js/2.6df6ae88.chunk.js.map": "/Documentry-page/static/js/2.6df6ae88.chunk.js.map",
+    "index.html": "/Documentry-page/index.html",
+    "precache-manifest.8461077239720775462d40f08fa6d7f6.js": "/Documentry-page/precache-manifest.8461077239720775462d40f08fa6d7f6.js",
+    "service-worker.js": "/Documentry-page/service-worker.js",
+    "static/css/main.471a92b9.chunk.css.map": "/Documentry-page/static/css/main.471a92b9.chunk.css.map",
+    "static/js/2.6df6ae88.chunk.js.LICENSE.txt": "/Documentry-page/static/js/2.6df6ae88.chunk.js.LICENSE.txt",
+    "static/media/DemoAnimation.gif": "/Documentry-page/static/media/DemoAnimation.ac825f6c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b99e10.js",
+    "static/js/2.6df6ae88.chunk.js",
+    "static/css/main.471a92b9.chunk.css",
+    "static/js/main.ab3dbcf1.chunk.js"
+  ]
+}
